@@ -67,11 +67,11 @@ public class Main {
             // ToDo: use scanner to scan user input for y
 
 //          // ToDo: check eb x & y validi positione sind
-//            if () {
-//                Exit loop
-//            } else {
-//                System.out.println("Invalid position or position already occupied. Try again.");
-//            }
+          if (true) {
+               break;
+           } else {
+               System.out.println("Invalid position or position already occupied. Try again.");
+            }
         }
         return new V2.solution.Tower(-1, -1, 2, 5);
     }
